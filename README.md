@@ -13,6 +13,10 @@ More information can be found in the [Documentation](https://docs.xpipe.io/about
 
 ### Installation
 
+Note that X-Pipe is still in its alpha phase.
+Many features that are listed in the documentation are either not yet implemented or might still be buggy.
+Therefore, the main target demographic are early adopters and people interested in development.
+
 All X-Pipe releases can be found on the [GitHub Releases page](https://github.com/xpipe-io/xpipe-app/releases/).
 Complete installation instructions and a user guide can be found in the [X-Pipe Documentation](https://docs.xpipe.io/installation)
 
